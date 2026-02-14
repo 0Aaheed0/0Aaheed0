@@ -50,7 +50,7 @@
 
 - 🎮 Gaming  
 - 🎨 Drawing & Creative Work  
-- 🪄 Learning Magic Tricks  
+- 🃏 Learning Magic Tricks  
 - 📚 Exploring New Technologies   
 
 ---
