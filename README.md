@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hey👋, I'm Aaheed bin Ashraf</h1>
+<h3 align="center">Computer Science & Engineering Student | Future Software Engineer</h3>
 
-<!--
-**0Aaheed0/0Aaheed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building scalable applications, intelligent systems, and solving real-world problems through code.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- 🎓 CSE Student at **Ahsanullah University of Science & Technology, Dhaka**
+- 💻 Full-Stack Development Enthusiast
+- 🧠 Interested in Algorithms, System Design & Machine Learning
+- 🔬 Worked with Arduino & Hardware-based projects
+- 🚀 Always learning and building
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+`C` `C++` `Java` `Python` `Assembly`
+
+### 🧠 Core Concepts
+`OOP` `Data Structures` `Algorithms` `Problem Solving`
+
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript` `Laravel` `React` `Node.js`
+
+### 📱 App Development
+`Flutter`
+
+### 🎮 Graphics & Systems
+`iGraphics` `Arduino` `Embedded System Projects`
+
+---
+
+## 🚀 Projects Snapshot
+
+- 🎟️ Travel Ticket Booking App (Flutter)
+- 🎮 2D Shooting Game (iGraphics)
+- 🌐 Missing Person & Accident Reporting Website
+- 🏫 Campus-based Missing Item Management System (Laravel)
+- 🚗 Drowsiness Detection & Automatic Vehicle Control (ML + Hardware)
+
+---
+
+## 🎯 Interests
+
+- 🎮 Gaming  
+- 🎨 Drawing & Creative Work  
+- 🪄 Learning Magic Tricks  
+- 📚 Exploring New Technologies   
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OAaheed0&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAaheed0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  🔵 Facebook: https://www.facebook.com/aaheed.bin.ashraf.2025?rdid=7otWfT97GviXVl2O&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1KzepHMH7z%2F#  
+  🟣 Instagram: https://www.instagram.com/_.aaheed._?igsh=MXJlZnJ6NXJ1Y2YyYg%3D%3D 
+  💼 LinkedIn: https://www.linkedin.com/in/aaheed/ 
+  ❌ X (Twitter): [Your X Link]  
+  ▶️ YouTube: https://www.youtube.com/channel/UC8eSomJH7-GFK_hfRrrzTtg  
+  💬 Discord: aaheed 
+</p>
+
+---
+
+## ✨ Personal Motto
+
+> "In this world, talent alone isn’t enough. So keep moving forward."
+
+---
+
+<p align="center">
+  ⚡ Building today to become better tomorrow ⚡
+</p>
