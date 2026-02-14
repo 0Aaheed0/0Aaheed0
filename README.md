@@ -68,11 +68,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  🔵 Facebook: https://www.facebook.com/aaheed.bin.ashraf.2025/ 
+  🔵 Facebook: https://www.facebook.com/aaheed.bin.ashraf.2025/
+  
   🟣 Instagram: https://www.instagram.com/_.aaheed._?igsh=MXJlZnJ6NXJ1Y2YyYg%3D%3D 
+  
   💼 LinkedIn: https://www.linkedin.com/in/aaheed/ 
-  ❌ X (Twitter): [Your X Link]  
+  
   ▶️ YouTube: https://www.youtube.com/channel/UC8eSomJH7-GFK_hfRrrzTtg  
+  
   💬 Discord: aaheed 
 </p>
 
