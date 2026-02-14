@@ -68,7 +68,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  🔵 Facebook: https://www.facebook.com/aaheed.bin.ashraf.2025?rdid=7otWfT97GviXVl2O&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1KzepHMH7z%2F#  
+  🔵 Facebook: https://www.facebook.com/aaheed.bin.ashraf.2025/ 
   🟣 Instagram: https://www.instagram.com/_.aaheed._?igsh=MXJlZnJ6NXJ1Y2YyYg%3D%3D 
   💼 LinkedIn: https://www.linkedin.com/in/aaheed/ 
   ❌ X (Twitter): [Your X Link]  
