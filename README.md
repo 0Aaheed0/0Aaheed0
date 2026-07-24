@@ -277,17 +277,24 @@ A 2D desktop game developed using the iGraphics library, implementing real-time 
 # 📈 GitHub Statistics
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=0Aaheed0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=0Aaheed0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Aaheed0&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Aaheed0&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=0Aaheed0&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=0Aaheed0&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -295,9 +302,10 @@ A 2D desktop game developed using the iGraphics library, implementing real-time 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0Aaheed0&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=0Aaheed0&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -305,9 +313,10 @@ A 2D desktop game developed using the iGraphics library, implementing real-time 
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0Aaheed0&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0Aaheed0&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
